@@ -41,7 +41,13 @@
 ```
 Створюю сторінки двох типів
 ```
-#### 10 ####
+#### 12 ####
+```
+Відкрив health
+    {"date": "2020-11-29T23:01:33.412", "current_page": "http://localhost:8000/health/", "server_info": "nt",
+    "client_info": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36"}
+```
+#### 13 ####
 ```
 
 ```

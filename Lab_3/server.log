@@ -1,0 +1,60 @@
+INFO 2020-11-29 23:11:03,874 root : Сервер доступний. Час на сервері: 2020-11-29T23:11:03.872
+INFO 2020-11-29 23:11:03,874 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-11-29 23:11:03,874 root : Відповідь сервера місти наступні поля:
+INFO 2020-11-29 23:11:03,874 root : Ключ: date, Значення: 2020-11-29T23:11:03.872
+INFO 2020-11-29 23:11:03,874 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-11-29 23:11:03,874 root : Ключ: server_info, Значення: nt
+INFO 2020-11-29 23:11:03,874 root : Ключ: client_info, Значення: python-requests/2.25.0
+INFO 2020-11-29 23:11:05,896 root : Сервер доступний. Час на сервері: 2020-11-29T23:11:05.891
+INFO 2020-11-29 23:11:05,900 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-11-29 23:11:05,901 root : Відповідь сервера місти наступні поля:
+INFO 2020-11-29 23:11:05,901 root : Ключ: date, Значення: 2020-11-29T23:11:05.891
+INFO 2020-11-29 23:11:05,901 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-11-29 23:11:05,902 root : Ключ: server_info, Значення: nt
+INFO 2020-11-29 23:11:05,902 root : Ключ: client_info, Значення: python-requests/2.25.0
+INFO 2020-11-29 23:12:07,943 root : Сервер доступний. Час на сервері: 2020-11-29T23:12:07.938
+INFO 2020-11-29 23:12:07,944 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-11-29 23:12:07,945 root : Відповідь сервера місти наступні поля:
+INFO 2020-11-29 23:12:07,945 root : Ключ: date, Значення: 2020-11-29T23:12:07.938
+INFO 2020-11-29 23:12:07,946 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-11-29 23:12:07,946 root : Ключ: server_info, Значення: nt
+INFO 2020-11-29 23:12:07,947 root : Ключ: client_info, Значення: python-requests/2.25.0
+INFO 2020-11-29 23:13:09,965 root : Сервер доступний. Час на сервері: 2020-11-29T23:13:09.963
+INFO 2020-11-29 23:13:09,965 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-11-29 23:13:09,965 root : Відповідь сервера місти наступні поля:
+INFO 2020-11-29 23:13:09,965 root : Ключ: date, Значення: 2020-11-29T23:13:09.963
+INFO 2020-11-29 23:13:09,966 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-11-29 23:13:09,966 root : Ключ: server_info, Значення: nt
+INFO 2020-11-29 23:13:09,966 root : Ключ: client_info, Значення: python-requests/2.25.0
+INFO 2020-11-29 23:14:11,981 root : Сервер доступний. Час на сервері: 2020-11-29T23:14:11.980
+INFO 2020-11-29 23:14:11,981 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-11-29 23:14:11,981 root : Відповідь сервера місти наступні поля:
+INFO 2020-11-29 23:14:11,981 root : Ключ: date, Значення: 2020-11-29T23:14:11.980
+INFO 2020-11-29 23:14:11,981 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-11-29 23:14:11,981 root : Ключ: server_info, Значення: nt
+INFO 2020-11-29 23:14:11,981 root : Ключ: client_info, Значення: python-requests/2.25.0
+INFO 2020-11-29 23:15:13,995 root : Сервер доступний. Час на сервері: 2020-11-29T23:15:13.994
+INFO 2020-11-29 23:15:13,995 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-11-29 23:15:13,995 root : Відповідь сервера місти наступні поля:
+INFO 2020-11-29 23:15:13,995 root : Ключ: date, Значення: 2020-11-29T23:15:13.994
+INFO 2020-11-29 23:15:13,995 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-11-29 23:15:13,995 root : Ключ: server_info, Значення: nt
+INFO 2020-11-29 23:15:13,995 root : Ключ: client_info, Значення: python-requests/2.25.0
+INFO 2020-11-29 23:16:16,022 root : Сервер доступний. Час на сервері: 2020-11-29T23:16:16.020
+INFO 2020-11-29 23:16:16,022 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-11-29 23:16:16,023 root : Відповідь сервера місти наступні поля:
+INFO 2020-11-29 23:16:16,023 root : Ключ: date, Значення: 2020-11-29T23:16:16.020
+INFO 2020-11-29 23:16:16,023 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-11-29 23:16:16,023 root : Ключ: server_info, Значення: nt
+INFO 2020-11-29 23:16:16,023 root : Ключ: client_info, Значення: python-requests/2.25.0
+INFO 2020-11-29 23:17:18,040 root : Сервер доступний. Час на сервері: 2020-11-29T23:17:18.039
+INFO 2020-11-29 23:17:18,040 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-11-29 23:17:18,040 root : Відповідь сервера місти наступні поля:
+INFO 2020-11-29 23:17:18,040 root : Ключ: date, Значення: 2020-11-29T23:17:18.039
+INFO 2020-11-29 23:17:18,040 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-11-29 23:17:18,040 root : Ключ: server_info, Значення: nt
+INFO 2020-11-29 23:17:18,040 root : Ключ: client_info, Значення: python-requests/2.25.0
+WARNING 2020-11-29 23:18:22,063 root : Page unable
+ERROR 2020-11-29 23:18:22,063 root : HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002507E53FB50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+WARNING 2020-11-29 23:19:26,074 root : Page unable
+ERROR 2020-11-29 23:19:26,075 root : HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002507E54B5B0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
