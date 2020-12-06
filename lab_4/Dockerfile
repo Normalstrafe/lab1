@@ -1,4 +1,4 @@
-FROM python:3.-slim
+FROM python:3.8-slim
 
 LABEL author="Nazarii"
 LABEL version=1.0
@@ -7,13 +7,13 @@ LABEL version=1.0
 RUN apt-get update && apt-get upgrade -y
 
 # Встановлюємо потрібні пакети
-RUN apt-get install git -y && pip install pipenv
+#RUN apt-get install git -y && pip3 install pipenv
 
 # Створюємо робочу папку
 WORKDIR /lab
 
 # Завантажуємо файли з Git
-RUN git clone https://github.com/Normalstrafe/lab1
+RUN git clone https://github.com/Normalstrafe/lab1.git
 
 # Створюємо остаточну робочу папку з Веб-сайтом та копіюємо туди файли
 WORKDIR /app
