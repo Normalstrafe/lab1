@@ -1,23 +1,23 @@
 FROM python:3.9-slim
 
-LABEL author="Nazarii"
+LABEL author="Nazarii Saviak"
 LABEL version=1.0
 
 # оновлюємо систему
 RUN apt-get update && apt-get upgrade -y
 
 # Встановлюємо потрібні пакети
-RUN apt-get install git -y && pip3 install pipenv
+RUN apt-get install git -y && pip install pipenv
 
 # Створюємо робочу папку
 WORKDIR /lab
 
 # Завантажуємо файли з Git
-RUN git clone https://github.com/Normalstrafe/lab1.git
+RUN git clone https://github.com/Normalstrafe/lab1
 
 # Створюємо остаточну робочу папку з Веб-сайтом та копіюємо туди файли
 WORKDIR /app
-RUN cp -r /lab/lab1/Lab_3/* .
+RUN cp -r /lab/lab1/Lab_3/* 
 
 # Інсталюємо всі залежності
 RUN pipenv install
@@ -26,4 +26,4 @@ RUN pipenv install
 EXPOSE 8000
 
 # Це команда яка виконається при створенні контейнера
-ENTRYPOINT ["pipenv", "run", "python", "manage.py", "runserver", "0.0.0.0:8000"]
+ENTRYPOINT ["pipenv", "run", "python", "monitoring.py"]
