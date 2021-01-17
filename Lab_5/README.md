@@ -38,7 +38,7 @@
 ```
 ***7***
 ```
-![image alt](https://github.com/Normalstrafe/lab1/raw/master/Lab_5/screen.png)
+![alt text](https://github.com/Normalstrafe/lab1/Lab_5/screen.png "Image1")
 ![alt text](https://github.com/lab1/Lab_5/screen2.png "Image1")
 ![alt text](https://github.com/lab1/Lab_5/screen3.png "Image1")
 ```
