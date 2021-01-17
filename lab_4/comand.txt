@@ -1,0 +1,2 @@
+sudo docker run -it --name=django-page --rm --publish 8000:8000 normalstrafer/lab_4:django
+
