@@ -38,7 +38,7 @@
 ```
 ***7***
 ```
-![alt text](screen.png "Запуск сторінки у браузері")
+![alt text](Normalstrafe/lab1/Lab_5/screen.png "Запуск сторінки у браузері")
 ![alt text](screen2.png "Запуск сторінки у браузері")
 ![alt text](screen3.png "Запуск сторінки у браузері")
 ```
