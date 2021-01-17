@@ -39,9 +39,8 @@
 ***7***
 ```
 ![alt text](screen.png "Запуск сторінки у браузері")
-
-![alt text](https://github.com/lab1/Lab_5/screen2.png "Image1")
-![alt text](https://github.com/lab1/Lab_5/screen3.png "Image1")
+![alt text](screen2.png "Запуск сторінки у браузері")
+![alt text](screen3.png "Запуск сторінки у браузері")
 ```
 ***8***
 ```
